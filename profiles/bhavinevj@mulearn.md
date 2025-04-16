@@ -1,4 +1,4 @@
-BHAVINE V J
+# BHAVINE V J
 
 ###  About Me:
 I'm a Computer Science and AI Engineering student fueled by a deep passion for technology, design, and hands-on innovation.
